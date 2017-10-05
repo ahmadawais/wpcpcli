@@ -119,7 +119,7 @@ echo "————————————————————————�
 echo "${wb}${bf}➤  PUSHING NOW...${r}"
 echo "——————————————————————————————————"
 
-git add README.md
+git add .
 git commit -m 'ADD: ReadMe FOSS WPCouple Partners info.'
 git push
 
