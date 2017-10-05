@@ -47,5 +47,3 @@ This command will perform the following actions:
 ## Usage
 
 Just run `wpcpcli` command :)
-
-# wpcpcli
