@@ -34,7 +34,7 @@ A personal workflow CLI :)
 Open command line terminal (I prefer iTerm2) and run the following command.
 
 ```bash
-sudo wget -qO wpcpcli https://git.io/grlci && sudo chmod +x ./wpcpcli && sudo mv ./wpcpcli /usr/local/bin/
+sudo wget -qO wpcpcli https://git.io/wpcpcli && sudo chmod +x ./wpcpcli && sudo mv ./wpcpcli /usr/local/bin/
 ```
 
 This command will perform the following actions:
