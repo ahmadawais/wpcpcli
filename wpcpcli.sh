@@ -120,7 +120,7 @@ cat xx00 wpcpinfo > README.md
 
 rm xx00
 rm xx01
-rm wpcpinfo.md
+rm wpcpinfo
 
 echo "-"
 echo "——————————————————————————————————"
